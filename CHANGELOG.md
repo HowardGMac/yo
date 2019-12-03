@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][unreleased]
+N/A
+
+## [2.0.2]- 2019-10-05 - The Hair of Whitesnake
+
+### Changed
+- Updated syntax to Swift 5.
+- Update project to work with Xcode 11
+
 ## [2.0.1]- 2017-06-12 - Roddy Piper's Hair in They Live 
 
 ### Fixed
@@ -52,7 +60,8 @@ All notable changes to this project will be documented in this file. This projec
 ### Added
 - Initial commit.
 
-[unreleased]: https://github.com/sheagcraig/yo/compare/2.0.1...HEAD
+[unreleased]: https://github.com/sheagcraig/yo/compare/2.0.2...HEAD
+[2.0.2]: https://github.com/sheagcraig/yo/compare/2.0.2...2.0.1
 [2.0.1]: https://github.com/sheagcraig/yo/compare/2.0.1...2.0.0
 [2.0.0]: https://github.com/sheagcraig/yo/compare/2.0.0...1.0.3
 [1.0.3]: https://github.com/sheagcraig/yo/compare/1.0.2...1.0.3
